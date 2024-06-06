@@ -1,0 +1,42 @@
+├── .next
+│  ├── cache
+│  │  ├── images
+│  │  │  ├── 4Z3bAZUYSS6QqOuhXMe8XspL23kkN+oz6izrnCZ9qRg=
+│  │  │  ├── 6eJfrPL8SBOOmSj7K8OKhM6wN15lIf4TumHJ5tYON2o=
+│  │  │  ├── 7l1pig1s8eBONHLSp3Hp808ofi+GiNjhFS3Q8hMcysQ=
+│  │  │  ├── BhhxbJ44yj4RSIij+OoNzPiFbTutJegz2Dgc4TQ6+Mw=
+│  │  │  ├── DGHafS8bpZgrsFjT-1QYU0awQfoCnX38g833YAu3QeA=
+│  │  │  ├── ELO-6TVMmvLHX1lL4REwsVqdx3sCrMSxr4A6GR3aCfI=
+│  │  │  ├── foPVXGH7NiAWCkwnxcvh0NDvAXkoUswXArWNdPfg6sY=
+│  │  │  ├── tCRee3zDOMF3ZP7b--l2vuJn+4dOmcEEeFSkCkgqb4U=
+│  │  │  └── THUX-mVwOtCMi6ehH1ZrtdPl14OH3p6ACAFVnk8dmeQ=
+│  │  ├── swc
+│  │  │  └── plugins
+│  │  │    └── v7_windows_x86_64_0.106.15
+│  │  └── webpack
+│  │    ├── client-development-fallback
+│  │    ├── client-development
+│  │    └── server-development
+│  ├── server
+│  │  ├── app
+│  │  │  ├── _not-found
+│  │  │  └── favicon.ico
+│  │  └── vendor-chunks
+│  ├── static
+│  │  ├── chunks
+│  │  │  └── app
+│  │  │    └── _not-found
+│  │  ├── css
+│  │  │  └── app
+│  │  ├── development
+│  │  ├── media
+│  │  └── webpack
+│  │    └── app
+│  └── types
+│    └── app
+├── app
+├── components
+│  └── ui
+├── lib
+├── pages
+└── public
