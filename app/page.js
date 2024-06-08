@@ -108,14 +108,17 @@ export default function Component() {
                     <CalendarIcon className="w-6 h-6 text-[#1b356e]" />
                     <div>
                       <p className="font-bold">Sábado, 15 de Junio</p>
-                      <p>3:00 PM</p>
+                      <p>3:30 PM</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-4">
                     <LocateIcon className="w-6 h-6 text-[#1b356e]" />
                     <div>
-                      <p className="font-bold">Casa de Don Juve</p>
-                      <p>Insertar dirección</p>
+                      <p className="font-bold">Ubicación</p>
+                      <p>
+                        C. San Juan 26, Villa Xochitenco, 56334 Chimalhuacán,
+                        Méx.
+                      </p>
                     </div>
                   </div>
                 </div>

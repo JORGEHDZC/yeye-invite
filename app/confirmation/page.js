@@ -15,7 +15,7 @@ export default function Confirmation() {
     setName(event.target.value);
   };
 
-  const phone = "5561875159";
+  const phone = "5517263132";
 
   const handleSubmit = (event) => {
     event.preventDefault();
